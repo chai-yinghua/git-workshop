@@ -1,4 +1,4 @@
-Basic Calculator Application  LOGO
+Basic Calculator Application 
 ============================
 > Implements reliable **Basic Calculator Web Application** with software reliability methodology, software development models and system testing techniques with automation testing tools in quality practices.  
 
